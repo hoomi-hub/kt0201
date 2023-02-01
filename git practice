@@ -2,4 +2,5 @@ int i
 array = [1,2,3,4,5] 
 for i in array{
     print(i)}
-    
+   
+## COMMIT은 버전을 제출한 행위
